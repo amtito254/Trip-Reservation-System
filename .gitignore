@@ -1,0 +1,4 @@
+# Real database login: never commit this
+demo_coaches_config.php
+*.log
+.DS_Store
